@@ -1,7 +1,7 @@
 # hhVI
 A collection of LabVIEW VIs for FRC
 
-## CAN Alarts.vi
+## CAN Alerts.vi
 Checks voltage of the PDV, roboRIO and all CAN Talon motor controllers. If the voltage on any of these it too low a dashboard message "Voltage Alerts" is sent.
 ## Check CAN Talon Voltage.vi
 Checks voltage of a CAN Talon motor controller and returns a string error if the voltage is below 10 volts.
