@@ -17,6 +17,8 @@ Writes joystick values to a the dashboard.
 Converts code to use both the Logitech Extreme 3D Pro Joystick and the Logitech Attack 3 Joystick
 ## Half Speed Converter.vi
 Converts a robot motor speed range from [-1,1] to [-.5,.5].
+## Joystick to Dashboard.vi
+Sends values from the joystick to the dashboard.
 ## Motor Direction.vi
 A boolean set motor controller for moving a motor forwards or backwards.
 ## Toggle Switch.vi
