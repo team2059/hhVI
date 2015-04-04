@@ -21,5 +21,11 @@ Converts a robot motor speed range from [-1,1] to [-.5,.5].
 Sends values from the joystick to the dashboard.
 ## Motor Direction.vi
 A boolean set motor controller for moving a motor forwards or backwards.
+## Set Arcade Drive.vi
+Sets x and y axis of arcade robot drive.
+## Set Motor Speed.vi
+Sets a motor speed in the range [-1,1].
+## Set Reley.vi
+Sets a reley in three states forwards, reverse and off.
 ## Toggle Switch.vi
 Converts a boolean running in a loop to a toggle switch.
