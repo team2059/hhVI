@@ -25,6 +25,8 @@ Converts a robot motor speed range from [-1,1] to [-.5,.5].
 Sends values from the joystick to the dashboard.
 ## Motor Direction.vi
 A boolean set motor controller for moving a motor forwards or backwards.
+## PID Drive.vi
+Drives the robot based on a set distance or rotation.
 ## Set Arcade Drive.vi
 Sets x and y axis of arcade robot drive.
 ## Set Motor Speed.vi
