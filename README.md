@@ -13,6 +13,8 @@ Converts a desired turn amount in degrees based on robot dimensions to wheel rot
 A basic auto that drives forward and stops.
 ## Get 4 Motor Drive Refs.vi
 Returns the motor references of a 4 motor drive.
+## Get Encoder Wheel Values.vi
+Handles a rotational encoder attached to a wheel and returns wheel direction, distance, velocity, state and angle.
 ## Get JoyStick Values.vi
 Writes joystick values to a the dashboard.
 ## Get Joystick type.vi
