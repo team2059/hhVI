@@ -7,6 +7,8 @@ Checks voltage of the PDV, roboRIO and all CAN Talon motor controllers. If the v
 Checks voltage of a CAN Talon motor controller and returns a string error if the voltage is below 10 volts.
 ## Convert Joystick Throttle.vi
 Converts a joystick axis range from [-1,1] to [0,1].
+## Degree to Ratation.vi
+Converts a desired turn amount in degrees based on robot dimensions to wheel rotations.
 ## Drive Forward Auto
 A basic auto that drives forward and stops.
 ## Get 4 Motor Drive Refs.vi
