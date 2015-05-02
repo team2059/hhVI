@@ -34,24 +34,13 @@ Drives the robot based on a set distance or rotation.
 Sets x and y axis of arcade robot drive.
 
 ## Miscellaneous
+### Degree to Ratation.vi
+Converts a desired turn amount in degrees based on robot dimensions to wheel rotations.
 
 ## Sensors
-
 ### CAN Alerts.vi
 Checks voltage of the PDV, roboRIO and all CAN Talon motor controllers. If the voltage on any of these it too low a dashboard message "Voltage Alerts" is sent.
 ### Check CAN Talon Voltage.vi
 Checks voltage of a CAN Talon motor controller and returns a string error if the voltage is below 10 volts.
-
-### Degree to Ratation.vi
-Converts a desired turn amount in degrees based on robot dimensions to wheel rotations.
-
 ### Get Encoder Wheel Values.vi
 Handles a rotational encoder attached to a wheel and returns wheel direction, distance, velocity, state and angle.
-
-
-
-
-
-
-
-
