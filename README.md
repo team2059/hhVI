@@ -25,7 +25,9 @@ Converts a boolean running in a loop to a toggle switch.
 
 ## Dashboard
 #### Get Sensitivity.vi
-Returns the control sensitivity setting that is set from the dashboard
+Returns the control sensitivity setting that is set from the dashboard.
+#### Get Joystick Type.vi
+Returns the joystick type being used on the drive station computer.
 
 ## Drive
 #### Drive Forward Auto
