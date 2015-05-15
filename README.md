@@ -12,10 +12,10 @@ Sets a reley in three states forwards, reverse and off.
 ## Controls
 #### Convert Joystick Throttle.vi
 Converts a joystick axis range from [-1,1] to [0,1].
-#### Get Joystick type.vi
-Converts code to use both the Logitech Extreme 3D Pro Joystick and the Logitech Attack 3 Joystick.
 #### Get JoyStick Values.vi
 Writes joystick values to a the dashboard.
+#### Get Joystick.vi
+Converts code to use both the Logitech Extreme 3D Pro Joystick and the Logitech Attack 3 Joystick.
 #### Half Speed Converter.vi
 Converts a robot motor speed range from [-1,1] to [-.5,.5].
 #### Joystick to Dashboard.vi
