@@ -24,10 +24,12 @@ Sends values from the joystick to the dashboard.
 Converts a boolean running in a loop to a toggle switch.
 
 ## Dashboard
-#### Get Sensitivity.vi
-Returns the control sensitivity setting that is set from the dashboard.
+#### Get Demo Mode.vi
+Returns if the robot needs to have less power for use at demos.
 #### Get Joystick Type.vi
 Returns the joystick type being used on the drive station computer.
+#### Get Sensitivity.vi
+Returns the control sensitivity setting that is set from the dashboard.
 
 ## Drive
 #### Drive Forward Auto
