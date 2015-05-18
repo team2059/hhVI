@@ -10,4 +10,4 @@ If you find a bug in the code please help us by submitting an issue to our [GitH
 You can request a new feature by submitting an issue to our [GitHub Repository](https://github.com/team2059/hhVI/issues/new).  
 
 ## Notice a Documentation Error?
-If you notice something that is either wrong or unclear in our documentation we would love to know. Please submit an issue to our[GitHub Repository](https://github.com/team2059/hhVI/issues/new).
+If you notice something that is either wrong or unclear in our documentation we would love to know. Please submit an issue to our [GitHub Repository](https://github.com/team2059/hhVI/issues/new).
