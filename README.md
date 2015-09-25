@@ -3,7 +3,7 @@ A collection of LabVIEW VIs for FRC
 
 ## Actuators
 #### Motor Direction.vi
-A boolean set motor controller for moving a motor forwards or backwards.
+A boolean set motor controller for moving a motor forwards or backwards tp a selected speed.
 #### Set Motor Speed.vi
 Sets a motor speed in the range [-1,1].
 #### Set Reley.vi
@@ -52,3 +52,5 @@ Checks voltage of the PDV, roboRIO and all CAN Talon motor controllers. If the v
 Checks voltage of a CAN Talon motor controller and returns a string error if the voltage is below 10 volts.
 #### Get Encoder Wheel Values.vi
 Handles a rotational encoder attached to a wheel and returns wheel direction, distance, velocity, state and angle.
+#### Limit Switches.vi
+Stops motor based on hitting an upper and lower limit.
