@@ -8,6 +8,8 @@ A boolean set motor controller for moving a motor forwards or backwards tp a sel
 Sets a motor speed in the range [-1,1].
 #### Set Reley.vi
 Sets a reley in three states forwards, reverse and off.
+#### Set Solenid.vi
+Toggles a solenid to two states on off.
 
 ## Controls
 #### Convert Joystick Throttle.vi
@@ -22,6 +24,10 @@ Converts a robot motor speed range from [-1,1] to [-.5,.5].
 Sends values from the joystick to the dashboard.
 #### Toggle Switch.vi
 Converts a boolean running in a loop to a toggle switch.
+####DualMotorSpeed.vi
+Controls motor speed for two motors from joystick throttle and forward and reverse.
+####Compresser OnOff.vi
+Turns a compresser on and off from two buttons on the joystick.
 
 ## Dashboard
 #### Get Demo Mode.vi
